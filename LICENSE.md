@@ -1,4 +1,4 @@
-# 
+# Custom LocalAI plugins. Featuring explainable-AI and multi-modal-support — optimized for maximum performance and efficiency.
 
 
 
